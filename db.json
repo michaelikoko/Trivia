@@ -1,0 +1,96 @@
+{
+  "results": [
+    {
+      "category": "General Knowledge",
+      "type": "multiple",
+      "difficulty": "medium",
+      "question": "What is the world&#039;s most expensive spice by weight?",
+      "correct_answer": "Saffron",
+      "incorrect_answers": ["Cinnamon", "Cardamom", "Vanilla"]
+    },
+    {
+      "category": "General Knowledge",
+      "type": "multiple",
+      "difficulty": "medium",
+      "question": "When was the Declaration of Independence approved by the Second Continental Congress?",
+      "correct_answer": "July 4, 1776",
+      "incorrect_answers": ["May 4, 1776", "June 4, 1776", "July 2, 1776"]
+    },
+    {
+      "category": "General Knowledge",
+      "type": "multiple",
+      "difficulty": "medium",
+      "question": "What is the German word for &quot;spoon&quot;?",
+      "correct_answer": "L&ouml;ffel",
+      "incorrect_answers": ["Gabel", "Messer", "Essst&auml;bchen"]
+    },
+    {
+      "category": "General Knowledge",
+      "type": "multiple",
+      "difficulty": "medium",
+      "question": "Who invented Pastafarianism?",
+      "correct_answer": "Bobby Henderson",
+      "incorrect_answers": ["Eric Tignor", "Bill Nye", "Zach Soldi"]
+    },
+    {
+      "category": "General Knowledge",
+      "type": "multiple",
+      "difficulty": "medium",
+      "question": "In a 1994 CBS interview, Microsoft co-founder Bill Gates performed what unusual trick on camera?",
+      "correct_answer": "Jumping over an office chair",
+      "incorrect_answers": [
+        "Jumping backwards over a desk",
+        "Standing on his head",
+        "Typing on a keyboard during a handstand"
+      ]
+    },
+    {
+      "category": "General Knowledge",
+      "type": "multiple",
+      "difficulty": "medium",
+      "question": "Which slogan did the fast food company, McDonald&#039;s, use before their &quot;I&#039;m Lovin&#039; It&quot; slogan?",
+      "correct_answer": "We Love to See You Smile",
+      "incorrect_answers": [
+        "Why Pay More!?",
+        "Have It Your Way",
+        "Making People Happy Through Food"
+      ]
+    },
+    {
+      "category": "General Knowledge",
+      "type": "multiple",
+      "difficulty": "medium",
+      "question": "Which item of clothing is usually worn by a Scotsman at a wedding?",
+      "correct_answer": "Kilt",
+      "incorrect_answers": ["Skirt", "Dress", "Rhobes"]
+    },
+    {
+      "category": "General Knowledge",
+      "type": "multiple",
+      "difficulty": "medium",
+      "question": "What was the name given to Japanese military dictators who ruled the country through the 12th and 19th Century?",
+      "correct_answer": "Shogun",
+      "incorrect_answers": ["Ninja", "Samurai", "Shinobi"]
+    },
+    {
+      "category": "General Knowledge",
+      "type": "multiple",
+      "difficulty": "medium",
+      "question": "Directly between the Washington Monument and the Reflecting Pool is a memorial to which war?",
+      "correct_answer": "World War II",
+      "incorrect_answers": [
+        "Vietnam War",
+        "American Civil War",
+        "American Revolutionary War"
+      ]
+    },
+    {
+      "category": "General Knowledge",
+      "type": "multiple",
+      "difficulty": "medium",
+      "question": "The architect known as Le Corbusier was an important figure in what style of architecture?",
+      "correct_answer": "Modernism",
+      "incorrect_answers": ["Neoclassical", "Baroque", "Gothic Revival"]
+    }
+  ]
+}
