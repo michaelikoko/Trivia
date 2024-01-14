@@ -1,5 +1,5 @@
 import axios from 'axios'
-const baseUrl = 'https://opentdb.com/api.php?amount=10&type=multiple' //real base url
+const baseUrl = 'https://opentdb.com/api.php?amount=10&type=multiple'
 
 export const getQuestions = ({ category, difficulty }) => {
   return axios
