@@ -37,8 +37,6 @@ const Quiz = () => {
     queryFn: () => getQuestions({ category, difficulty }),
   })
 
-  //console.log(JSON.parse(JSON.stringify(result)))
-
   if (result.isLoading) {
     return (
       <div className='d-flex flex-column align-items-center justify-content-center my-5'>
@@ -53,10 +51,8 @@ const Quiz = () => {
       <div className='d-flex flex-column align-items-center justify-content-center my-5'>
         <div className='my-2 fs-5 lead'>An Error Occurred</div>
         <button
-          className={`btn btn-primary align-self-end ${
-            isAnswered === false && 'disabled'
-          }`}
-          onClick={nextQuestion}
+          className='btn btn-primary'
+          onClick={() => location.reload()}
         >
               Reload
         </button>
